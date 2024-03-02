@@ -1,0 +1,26 @@
+{
+  "name": "currency-converter-by-deeksha",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deeksha2959/currency-converter-by-deeksha.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Deeksha Tiwari",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/deeksha2959/currency-converter-by-deeksha/issues"
+  },
+  "homepage": "https://github.com/deeksha2959/currency-converter-by-deeksha#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
